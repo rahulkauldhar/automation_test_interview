@@ -8,6 +8,3 @@ tips:
 5. that's it, please do NOT merge to branch master    
 
 
-sent a word to Aneesh: 2 questions 
-create a question list to jon descriptions 3 questions per different levels
-
