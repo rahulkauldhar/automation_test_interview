@@ -11,7 +11,7 @@
  * */
 
 
-public class CrossBrowserExampleIT {
+/**public class CrossBrowserExampleIT {
 	private WebDriver driver;
 
 
@@ -26,4 +26,4 @@ public class CrossBrowserExampleIT {
 	public void tearDown() {
 		driver.close();
 	}
-}
+}**/
