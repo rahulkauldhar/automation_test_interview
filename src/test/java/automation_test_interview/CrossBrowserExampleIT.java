@@ -1,11 +1,11 @@
 /* 
- * Requirement: 
+ * Requirements: 
  * 
- * 1. access the site:  http://edteam.prodigygame.org/qa/
- *   username and password to access this site: edteam/ApricotSundae7 
- * 2. verify the question total for skill 3, ie. expected question total = 45
- * 3. default webdriver is firefox
- * 3. if you have enough time, please run the test with chrome and safari as well
+ * 1. Access the site:  http://edteam.prodigygame.org/qa/
+ *    username and password to access this site is edteam/BeanSproutMints3
+ * 2. Verify the question total for skill number = 3, ie. expected question total = 45
+ * 3. Default webdriver is firefox
+ * 3. If you have enough time, please run the test with chrome and safari as well
  * 
  * 
  * */
