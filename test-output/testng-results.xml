@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11207" started-at="2017-02-12T19:01:44Z" finished-at="2017-02-12T19:01:55Z">
+    <groups>
+      <group name="localTest">
+        <method signature="GoogleExampleIT.googleCheeseExample()" name="googleCheeseExample" class="GoogleExampleIT"/>
+        <method signature="GoogleExampleIT.googleMilkExample()" name="googleMilkExample" class="GoogleExampleIT"/>
+      </group>
+    </groups>
+    <test name="Default test" duration-ms="11207" started-at="2017-02-12T19:01:44Z" finished-at="2017-02-12T19:01:55Z">
+      <class name="GoogleExampleIT">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="5861" started-at="2017-02-12T19:01:44Z" finished-at="2017-02-12T19:01:50Z">
+        </test-method>
+        <test-method status="PASS" signature="googleCheeseExample()" name="googleCheeseExample" duration-ms="423" started-at="2017-02-12T19:01:50Z" finished-at="2017-02-12T19:01:51Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="19" started-at="2017-02-12T19:01:51Z" finished-at="2017-02-12T19:01:51Z">
+        </test-method>
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="4465" started-at="2017-02-12T19:01:51Z" finished-at="2017-02-12T19:01:55Z">
+        </test-method>
+        <test-method status="PASS" signature="googleMilkExample()" name="googleMilkExample" duration-ms="403" started-at="2017-02-12T19:01:55Z" finished-at="2017-02-12T19:01:55Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="17" started-at="2017-02-12T19:01:55Z" finished-at="2017-02-12T19:01:55Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
